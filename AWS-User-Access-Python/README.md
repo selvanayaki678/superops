@@ -18,3 +18,7 @@ This Python script (`iam_user.py`) demonstrates how to provision AWS IAM users, 
 
 ## Execution
     python iam_user.py
+    
+  - ![image](https://github.com/user-attachments/assets/3bdaf8e2-fee3-4ef7-a3df-42c4e9e7ec6e)
+  - ![image](https://github.com/user-attachments/assets/77bcee7b-0b37-41c0-9ea1-aa6270e511aa)
+
